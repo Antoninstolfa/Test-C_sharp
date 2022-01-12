@@ -1,0 +1,10 @@
+G:\programování\Test C_sharp\Test C_sharp\bin\Debug\Test C_sharp.exe.config
+G:\programování\Test C_sharp\Test C_sharp\bin\Debug\Test C_sharp.exe
+G:\programování\Test C_sharp\Test C_sharp\bin\Debug\Test C_sharp.pdb
+G:\programování\Test C_sharp\Test C_sharp\obj\Debug\Test C_sharp.csprojAssemblyReference.cache
+G:\programování\Test C_sharp\Test C_sharp\obj\Debug\Test_C_sharp.Form1.resources
+G:\programování\Test C_sharp\Test C_sharp\obj\Debug\Test_C_sharp.Properties.Resources.resources
+G:\programování\Test C_sharp\Test C_sharp\obj\Debug\Test C_sharp.csproj.GenerateResource.cache
+G:\programování\Test C_sharp\Test C_sharp\obj\Debug\Test C_sharp.csproj.CoreCompileInputs.cache
+G:\programování\Test C_sharp\Test C_sharp\obj\Debug\Test C_sharp.exe
+G:\programování\Test C_sharp\Test C_sharp\obj\Debug\Test C_sharp.pdb
